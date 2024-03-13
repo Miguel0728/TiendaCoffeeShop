@@ -1,0 +1,12 @@
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\bin\Debug\ProyectoTiendaXYZ.exe.config
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\bin\Debug\ProyectoTiendaXYZ.exe
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\bin\Debug\ProyectoTiendaXYZ.pdb
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\bin\Debug\ProyectoTiendaXYZ.xml
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.vbproj.AssemblyReference.cache
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.Form1.resources
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.Resources.resources
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.vbproj.GenerateResource.cache
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.vbproj.CoreCompileInputs.cache
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.exe
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.xml
+C:\Users\melen\source\repos\ProyectoTiendaXYZ\obj\Debug\ProyectoTiendaXYZ.pdb
